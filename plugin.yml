@@ -1,0 +1,24 @@
+name: FreebuildSystem
+version: 1
+main: de.minebug.freebuild.main
+database: true
+commands:
+  gamemode:
+    aliases: gm
+  warp:
+  warps:
+  delwarp:
+  setwarp:
+  home:
+  homes:
+  sethome:
+  delhome:
+  region:
+  system:
+    aliases: sys
+  spawn:
+  setspawn:
+  weather:
+  fly:
+  invsee:
+  god:

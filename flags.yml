@@ -1,0 +1,14 @@
+build: deny
+explosions: deny	
+water-flow: allow
+water-flow-in: allow
+lava-flow: allow
+lava-flow-in: allow
+tree-grow: allow
+tree-grow-in: allow
+leaves-decay: allow
+pvp: allow
+mob-spawning: allow
+animal-spawning: allow
+greeting: null
+farewell: null
